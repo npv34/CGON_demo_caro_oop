@@ -1,0 +1,12 @@
+#gameBoard, td, tr {
+    border: 1px solid red;
+}
+
+#gameBoard {
+    border-collapse: collapse;
+}
+
+#gameBoard td {
+    width: 50px;
+    height: 50px;
+}
